@@ -16,6 +16,14 @@ body{
   max-width: 800px;
 }
 
+.navbar-toggler {
+  color: #007bff;
+}
+
+.dropdown-icon {
+  width: 5rem;
+}
+
 footer {
   padding-left: 20%;
   padding-top: 20px;
